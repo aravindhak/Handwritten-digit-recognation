@@ -14,10 +14,12 @@ Handwriting recognition is one of the compelling research works going on because
 image
 
 WEB PAGE:
+#image
 ![Picture3](https://user-images.githubusercontent.com/102220406/233922280-da92ca50-e434-49a9-b75d-b74b4b9b9fb5.png)
-
 
 PREDICT:
 #image
+![Picture4](https://user-images.githubusercontent.com/102220406/233923119-a72968bf-a0a1-4dc1-a360-769cfbf109dc.png)
+
 
 THANK YOU
